@@ -1,0 +1,2 @@
+# BingX
+BingX trading
